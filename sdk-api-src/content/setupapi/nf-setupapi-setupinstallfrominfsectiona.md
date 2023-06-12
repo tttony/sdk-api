@@ -339,7 +339,7 @@ Value to be passed to the callback function when the file queue built by this ro
       <a href="/windows/desktop/api/setupapi/nf-setupapi-setupcommitfilequeuea">SetupCommitFileQueue</a>. The 
       <i>Context</i> parameter is optional only if the <i>Flags</i> parameter 
       does not include SPINST_FIlLES. This parameter must be specified if <i>Flags</i> includes 
-      SPINST_FIlLES.
+      SPINST_FILES.
 
 ### -param DeviceInfoSet
 
